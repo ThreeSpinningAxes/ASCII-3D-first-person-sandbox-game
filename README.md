@@ -1,5 +1,5 @@
 # ASCII-3D-first-person-sandbox-game
-Created a basic 3D first person sandbox game only using ASCII characters and the windows terminal entirely from scratch. You move around a map, look in any direction, strafe and jump around. I referenced this video for this project: https://www.youtube.com/watch?v=xW8skO7MFYw
+Created a basic 3D first person sandbox game only using ASCII characters and the windows terminal entirely from scratch. You move around a map, look in any direction, strafe and jump around.
 
 Some footage:
 
